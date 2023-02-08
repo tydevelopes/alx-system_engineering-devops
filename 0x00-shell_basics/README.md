@@ -21,3 +21,6 @@ displays current directory contents, including hidden files, in long format, wit
 
 ### 6-firstdirectory
 creates a directory named my_first_directory in /tmp/ directory
+
+### 7-movethatfile
+move file betty from /tmp/ to /tmp/my_first_directory
