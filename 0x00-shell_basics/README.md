@@ -15,3 +15,6 @@ displays current directory contents in a long format
 
 ### 4-listmorefiles
 displays current directory contents, including hidden files, in a long format
+
+### 5-listfilesdigitonly
+displays current directory contents, including hidden files, in long format, with user and group IDs diplayed numerically
