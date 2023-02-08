@@ -36,3 +36,6 @@ changes the working directory to the previous one
 
 ### 11-lists
 list all files, including hidden ones, in the current directory the parent of the working directory and the /boot directory (in this order), in long format
+
+### 12-file_type
+prints the type of the file named iamafile in /tmp
