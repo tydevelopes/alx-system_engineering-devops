@@ -18,3 +18,6 @@ displays current directory contents, including hidden files, in a long format
 
 ### 5-listfilesdigitonly
 displays current directory contents, including hidden files, in long format, with user and group IDs diplayed numerically
+
+### 6-firstdirectory
+creates a directory named my_first_directory in /tmp/ directory
