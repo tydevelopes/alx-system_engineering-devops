@@ -9,7 +9,7 @@ then
 	chmod u+x $1
 	MESSAGE="Added script for task $3"
 else
-	MESSAGE="Fixed error in script"
+	MESSAGE="Fixed error in script for task $3"
 fi
 
 git add .
